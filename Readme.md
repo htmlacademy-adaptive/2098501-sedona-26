@@ -1,7 +1,7 @@
-# Личный проект «Седона» 
+# Личный проект «Седона»
 
-* Студент: [Андрей](https://up.htmlacademy.ru/adaptive/26/user/2098501).
-* Наставник: `Неизвестно`.
+- Студент: [Андрей](https://up.htmlacademy.ru/adaptive/26/user/2098501).
+- Наставник: [Александр Карташов](https://htmlacademy.ru/profile/id77080).
 
 ---
 
